@@ -50,13 +50,16 @@ When you run the project, the views should be found by Spring Boot and you shoul
 
 ## Endpoints
 - http://localhost:8081/
+
 - http://localhost:8081/auth/signup
+  ![image](https://github.com/Avinash4231/food-ordering-crud-api-spring-boot/assets/119235391/1a5505fa-ac22-4a52-9367-9961d2e88964)
+
 - http://localhost:8081/auth/signin
+    ![image](https://github.com/Avinash4231/food-ordering-crud-api-spring-boot/assets/119235391/d05e1df8-fb02-4d41-92fd-e39202846ff7)
+
 - http://localhost:8081/api/users/profile
-- http://localhost:8081/api/admin/restaurants
-- http://localhost:8081/api/restaurants
-- http://localhost:8081/api/admin/restaurants/1/status
-- http://localhost:8081/api/restaurants/1/add-favourites
+  ![image](https://github.com/Avinash4231/food-ordering-crud-api-spring-boot/assets/119235391/0021f253-ad93-4fbf-9546-8d023e52bcb1)
+
 
 
 ## Spring Boot
